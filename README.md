@@ -65,3 +65,5 @@ A 7-day, 30-day and 3-month review forecast
 🚫 No ads, no tracking, no account
 
 PalabraPal is for learners who want depth: a vocabulary you’ll actually remember, built from real Spanish, on your own terms. 🇪🇸🇲🇽
+
+DISCLAIMER: There are still many flaws, bugs, and inaccuracies. PalabraPal will be receiving updates to fix bugs and make everything more accurate for learners. In the meantime, users should always take everything with a grain of salt, and expect inaccuracies/mistakes in the software, including, but not limited to: translations, definitions, listed conjugations, etc. 
