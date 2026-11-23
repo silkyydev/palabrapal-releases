@@ -1,3 +1,9 @@
+<img width="2880" height="1800" alt="03-word" src="https://github.com/user-attachments/assets/4b4dbb8f-d416-4a99-8008-da7cf26d3aa4" />
+<img width="2880" height="1800" alt="02-review" src="https://github.com/user-attachments/assets/55eceb1a-23ae-4eed-b40e-6afdaed53f37" />
+<img width="2880" height="1800" alt="01-dashboard" src="https://github.com/user-attachments/assets/c16ad560-93a0-4a29-be4c-c1da748e9a6e" />
+<img width="2880" height="1800" alt="06-dark" src="https://github.com/user-attachments/assets/02bcccdd-3eeb-415b-8a56-1faae9d191b3" />
+<img width="2880" height="1800" alt="05-path" src="https://github.com/user-attachments/assets/6245da5c-ee76-4989-a94f-ac3853242510" />
+<img width="2880" height="1800" alt="04-reader" src="https://github.com/user-attachments/assets/58b48bf7-b3e1-4e09-8226-6d1662b5850e" />
 # palabrapal-releases
 
 📚 PalabraPal: Spanish vocabulary, all in one place
